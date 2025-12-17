@@ -1,3 +1,3 @@
 # new---file
-tutori
+tutorial
 Ayush Raj
